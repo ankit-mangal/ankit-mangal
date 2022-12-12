@@ -13,7 +13,7 @@ Hi 👋 My name is Ankit Mangal
 Passionate about shaping imaginations to working ideas on web.
 
 - 🌱 I’m currently learning web development.
-- 🛠  ReactJs and CSS is all I Need.
+- 🛠  ReactJs and CSS is all I need.
 - 🔥  I make tech easy and mazedaar -> [learnwithgeek](https://www.instagram.com/learnwithgeek/).
 - 🎭  I'm figuring out.
 - 📩  You can contact me at [mangalankit843@gmail.com](mailto:mangalankit843@gmail.com).
