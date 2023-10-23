@@ -33,11 +33,3 @@ Passionate about shaping imaginations to working ideas on web.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
-### :fire: My Stats :
-
-<a href="http://www.github.com/ankit-mangal"><img src="https://github-readme-stats.vercel.app/api?username=ankit-mangal&show_icons=true&hide=issues,contribs&count_private=true&title_color=ff6150&text_color=ffffff&icon_color=ff6150&bg_color=1d1e1f&hide_border=true&show_icons=true" alt=" GitHub stats" /></a>
-
-<a href="http://www.github.com/ankit-mangal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-mangal&stroke=ffffff&background=1d1e1f&ring=ff6150&fire=ff6150&currStreakNum=ffffff&currStreakLabel=ff6150&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=" /></a>
-
-<a href="https://github.com/ankit-mangal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-mangal&langs_count=10&title_color=ff6150&text_color=ffffff&icon_color=ff6150&bg_color=1d1e1f&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
