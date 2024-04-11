@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Ankit Mangal
+Hi 👋 my name is Ankit Mangal
 ================================
 
 <b>Frontend Developer | Web Designer</b>
