@@ -15,7 +15,7 @@ Passionate about shaping imaginations to working ideas on web.
 - 🌱 I’m currently learning web development.
 - 🛠  ReactJs and CSS is all I need.
 - 🎭  I'm figuring out.
-- 📩  You can contact me at [mangalankit843@gmail.com](mailto:mangalankit843@gmail.com).
+- 📩  contact me at [mangalankit843@gmail.com](mailto:mangalankit843@gmail.com).
 
 
 ### :hammer_and_wrench: Languages and Tools :
