@@ -12,9 +12,8 @@
 
 Passionate about shaping imaginations to working ideas on web.
 
-- 🌱 I’m currently learning web development.
-- 🛠  ReactJs and CSS is all I need.
-- 🎭  I'm figuring out.
+- 🌱 Exploring AI
+- 🛠  Tools I use Daily - ReactJs, Nextjs & Tailwind CSS
 - 📩  contact me at [mangalankit843@gmail.com](mailto:mangalankit843@gmail.com).
 
 
