@@ -13,7 +13,7 @@
 Passionate about shaping imaginations to working ideas on web.
 
 - 🌱 Exploring AI
-- 🛠  Tools I use Daily - ReactJs, Nextjs & Tailwind CSS
+- 🛠  Tools I use Daily - Reactjs, Nextjs & Tailwind CSS
 - 📩  contact me at [mangalankit843@gmail.com](mailto:mangalankit843@gmail.com).
 
 
